@@ -14,7 +14,7 @@ If you're not inclined to make PRs you can tweet me at ```@pborreli```
 
 ## Source Code Repos
 
-  * https://github.com/nonprofit – Get a free bronze plan
+  * https://github.com/nonprofit – Unlimited private repositories and users
 
 ## Email
 
@@ -58,6 +58,8 @@ If you're not inclined to make PRs you can tweet me at ```@pborreli```
 ## Web Hosting
 
 ## IaaS
+
+  * https://aws.amazon.com/government-education/nonprofits/ - $2,000 worth of AWS service credits annually to be used towards Amazon WorkDocs, Amazon WorkMail, and Amazon WorkSpaces.
 
 ## DBaaS
 
